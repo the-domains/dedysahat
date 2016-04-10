@@ -6,13 +6,13 @@ color:
     - '#888068'
     - '#000000'
     - '#F0D090'
-  brandStrength: 0.5679224521844974
-  lightness: 0.008413217312847832
-  rhythmicContrast: 0.7243080251403498
-  saturation: 0.37459498437863314
+  brandStrength: 0.739865
+  lightness: 0.008413
+  rhythmicContrast: 0.724308
+  saturation: 0.374594
 cta: {}
 layout_spectrum: 0.055099724817650686
 name: DedySahat
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.580539598015103
+typography_spectrum: 0.452703
